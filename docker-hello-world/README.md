@@ -7,8 +7,11 @@
 ## 🚧 项目结构
 
 docker-hello-world/
+
 ├── Dockerfile # 构建镜像的定义文件
+
 ├── hello.py # 简单的 Python 脚本
+
 └── README.md
 
 
