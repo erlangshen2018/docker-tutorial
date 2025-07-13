@@ -6,3 +6,19 @@
 
 ## 🚧 项目结构
 
+docker-hello-world/
+├── Dockerfile # 构建镜像的定义文件
+├── hello.py # 简单的 Python 脚本
+└── README.md
+
+
+---
+
+## 🛠 使用方法
+
+### 1️⃣ 构建镜像
+
+```bash
+docker build -t my-hello-docker .
+
+
